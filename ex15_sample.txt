@@ -1,0 +1,3 @@
+Hello
+I'm trying to learn ruby.
+Have a lovely day!

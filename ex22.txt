@@ -1,0 +1,3 @@
+Interactive Game (quizlet) https://quizlet.com/31337099/learn-ruby-the-hard-way-ex-22-flash-cards/
+
+Someone's resumed notes: https://staceylearnscode.wordpress.com/2015/09/18/learn-ruby-the-hard-way-exercise-22/
